@@ -1,4 +1,4 @@
-<img src="./assets/profile-hero.svg" alt="Wezeso World — Timur Ryabov. Tools, maps and practical workflows." width="100%">
+<img src="./assets/profile-hero.png" alt="Cobalt silhouette and pink spiral artwork matching my avatar" width="100%">
 
 <p align="center">
   <a href="https://github.com/Wezzeso?tab=repositories">Explore my repositories</a>
